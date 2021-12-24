@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Victor</B> - aka theAviatorCodes2</h3>
+<h3 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <strong>Victor</strong> - aka theAviatorCodes2</h3>
 
 <hr>
 
