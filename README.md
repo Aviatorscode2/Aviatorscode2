@@ -4,7 +4,7 @@
 
 ✨ A Frontend Engineer and a Technical Writer. I am currently cheating on Aviation with Programming 🤓. I'm passionate about sharing knowledge, documentation, writing clean, maintainable code and I'm always looking for new ways to improve my skills.
 
-- 🔭 I’m Software Engineer and Technical Writer.
+- 🔭 I’m a Software Engineer and Technical Writer.
 - 🌱 Vision 2022: Learn more about FOSS, AngularJS and TypeScript
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about: Documentation, Frontend Engineering, ReactJS, PWA, CSS preprocessors, Digital Marketing.
