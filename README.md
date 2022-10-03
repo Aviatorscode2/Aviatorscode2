@@ -2,6 +2,8 @@
 
 <hr>
 
+[![@aviatorscode2's Holopin board](https://holopin.io/api/user/board?user=aviatorscode2)](https://holopin.io/@aviatorscode2)
+
 ✨ A Frontend Engineer and a Technical Writer. I'm passionate about sharing knowledge, documentation, writing clean, maintainable code and I'm always looking for new ways to improve my skills.
 
 - 🔭 I’m a Software Engineer and Technical Writer.
