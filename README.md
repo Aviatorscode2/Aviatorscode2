@@ -6,7 +6,7 @@
 ✨ A Frontend Engineer and a Technical Writer. I'm passionate about sharing knowledge, documentation, writing clean, maintainable code and I'm always looking for new ways to improve my skills.
 
 - 🔭 I’m a Software Engineer and Technical Writer.
-- 🌱 Vision 2023: Contribute to Open Source, Learn more on technical documentation, Learn more TypeScript, Dive into DevRel and Attend and Speak at events.
+- 🌱 Vision 2023: Contribute to Open Source, Learn more on technical documentation, Learn TypeScript, Explore DevRel, Attend and Speak at events.
 - 👯 I’m looking to collaborate on open source projects and contribute to the commnunity.
 - 💬 Ask me about: Technical Documentation, Frontend Engineering, and Content Writing.
 - 📫 How to reach me: DM [Twitter](https://twitter.com/edoboi_), [LinkedIn](https://www.linkedin.com/in/victoryakubu/), [Email](mailto:www.victoryakubu5@gmail.com)
